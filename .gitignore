@@ -1,0 +1,10 @@
+bower_components/
+node_modules/
+dist/
+.tmp/
+.idea
+*.iml
+coverage/
+.sass-cache/
+npm-debug.log
+src/app/index.version.js
